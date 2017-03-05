@@ -1,3 +1,7 @@
 first row
+<<<<<<< HEAD
 second row
 third row master
+=======
+second row
+>>>>>>> refs/remotes/origin/new-branch
